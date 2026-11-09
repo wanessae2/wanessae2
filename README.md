@@ -23,6 +23,11 @@ Atualmente, sou fundadora e presidente da **Liga Acadêmica de Robótica da UFMA
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=intellij,vscode,clion&theme=dark" />
+</p>
+
+
 <h2>⚙️ Hardware e tecnologia</h2>
 
 - Arduino
