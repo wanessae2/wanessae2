@@ -14,22 +14,14 @@ Atualmente, sou fundadora e presidente da **Liga Acadêmica de Robótica da UFMA
 ## 🚀 Tecnologias e ferramentas
 
 
-<h2>💻 Linguagens de programação</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
 </p>
-
-<h2>🌐 Desenvolvimento Web</h2>
-
-- HTML5
-- CSS3
-- JavaScript
-- Desenvolvimento Front-end e Back-end
 
 <h2>⚙️ Hardware e tecnologia</h2>
 
