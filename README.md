@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<h1>Olá! Eu sou a Évilla Wanessa 👋</h1>
-
-<h3>💻 Computação e Inteligência Artificial</h3>
+<h1>Olá! Eu sou a Évilla Wanessa </h1>
 
 <p>
   <img src="https://img.shields.io/badge/UFMA-Computação%20e%20IA-483D8B?style=for-the-badge" />
@@ -38,78 +36,10 @@ e iniciativas de inovação com impacto social.
 
 <br>
 
-<h2 align="center">✦ Áreas de interesse</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <h3>🤖</h3>
-  <b>Inteligência Artificial</b>
-</td>
-<td align="center" width="33%">
-  <h3>💻</h3>
-  <b>Desenvolvimento</b>
-</td>
-<td align="center" width="33%">
-  <h3>⚙️</h3>
-  <b>Robótica e IoT</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <h3>🔐</h3>
-  <b>Cibersegurança</b>
-</td>
-<td align="center">
-  <h3>♿</h3>
-  <b>Acessibilidade</b>
-</td>
-<td align="center">
-  <h3>🔌</h3>
-  <b>Sistemas embarcados</b>
-</td>
-</tr>
-</table>
-
 <br>
 
-<h2 align="center">✦ Liderança e atuação acadêmica</h2>
 
-<table align="center">
-<tr>
-<td width="100%" bgcolor="#211B3B">
-
-<h3>🚀 LACRO — UFMA</h3>
-<p>Fundadora e Presidente da Liga Acadêmica de Robótica.</p>
-
-<hr>
-
-<h3>🛡️ LASETE — UNDB</h3>
-<p>Diretora de Pesquisa, Ensino e Extensão da Liga de Cibersegurança e Tecnologias Emergentes.</p>
-
-<hr>
-
-<h3>💡 LADSIS</h3>
-<p>Integrante da diretoria.</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<h3>💜 Construindo o futuro com tecnologia.</h3>
-
-<sub>Código • Criatividade • Conhecimento • Impacto social</sub>
-
-</div>
-
-
-## 🚀 Tecnologias e ferramentas
-
-
+<h2 align="center">🚀 Tecnologias e ferramentas</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark" />
@@ -123,65 +53,6 @@ e iniciativas de inovação com impacto social.
   <img src="https://skillicons.dev/icons?i=idea,vscode,clion&theme=dark" />
 </p>
 
-
-
-<h2 align="center">⚙️ Hardware & Tecnologia</h2>
-
-<p align="center">
-  Tecnologias que conectam o mundo físico ao digital.
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="33%" bgcolor="#211B3B">
-  <h1>🔌</h1>
-  <b>Arduino</b>
-  <br>
-  <sub>Prototipagem eletrônica</sub>
-</td>
-<td align="center" width="33%" bgcolor="#211B3B">
-  <h1>📡</h1>
-  <b>ESP32</b>
-  <br>
-  <sub>Conectividade e IoT</sub>
-</td>
-<td align="center" width="33%" bgcolor="#211B3B">
-  <h1>⚙️</h1>
-  <b>Sistemas embarcados</b>
-  <br>
-  <sub>Hardware e programação</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%" bgcolor="#211B3B">
-  <h1>🤖</h1>
-  <b>Robótica</b>
-  <br>
-  <sub>Automação e inovação</sub>
-</td>
-<td align="center" width="33%" bgcolor="#211B3B">
-  <h1>🌐</h1>
-  <b>Internet das Coisas</b>
-  <br>
-  <sub>Dispositivos conectados</sub>
-</td>
-<td align="center" width="33%" bgcolor="#211B3B">
-  <h1>🧠</h1>
-  <b>Integração tecnológica</b>
-  <br>
-  <sub>Software + Hardware</sub>
-</td>
-</tr>
-</table>
-
----
-
-
-<h2 align="center">🧪 Projetos & Experiências</h2>
-
-<p align="center">
-  <i>Ideias que se transformam em tecnologia, pesquisa e impacto social.</i>
-</p>
 
 <br>
 
@@ -270,6 +141,26 @@ Experiência acadêmica no desenvolvimento de jogos digitais, explorando lógica
 </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td bgcolor="#211B3B" width="500">
+      <h3 align="center">NEXORA AI SOLUTIONS</h3>
+      <p align="justify">
+        Fundadora da Nexora AI Solutions, iniciativa voltada ao desenvolvimento
+        de aplicações, sistemas e soluções estratégicas com programação avançada
+        e Inteligência Artificial. A empresa busca transformar desafios complexos
+        em soluções tecnológicas que promovam eficiência, inovação e melhores
+        resultados para empresas e governos.
+      </p>
+      <p align="center">
+        <a href="https://www.instagram.com/nexoraai__/">
+          <img src="https://img.shields.io/badge/Instagram-Nexora%20AI%20Solutions-9370DB?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <!-- ROBÓTICA E IOT -->
@@ -332,14 +223,14 @@ Pesquisa acadêmica sobre aplicações da Inteligência Artificial na proteção
 </td>
 <td width="50%" valign="top" bgcolor="#211B3B">
 
-<h3 align="center">📚 Produção Científica</h3>
+<h3 align="center">🔥 Pesquisa e Produção Científica</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ACADEMIC%20RESEARCH-9370DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT%20%7C%20SISTEMAS%20EMBARCADOS-9370DB?style=flat-square" />
 </p>
 
-<p align="center">
-Colaboração na elaboração de dois artigos científicos, contribuindo para atividades de pesquisa e produção de conhecimento.
+<p align="justify">
+  Participação em pesquisa e elaboração de artigo científico voltados ao desenvolvimento de um sistema inteligente de detecção de incêndios.
 </p>
 
 </td>
@@ -365,21 +256,9 @@ Atuação como extensionista no Laboratório de Inclusão Digital (LIDI), desenv
 
 <br>
 
-<div align="center">
-
-<h3>✨ Tecnologia com propósito. Conhecimento em movimento.</h3>
-
-<p><sub>Desenvolvimento • Pesquisa • Robótica • Acessibilidade • Inovação</sub></p>
-
-</div>
 
 <!-- ================= CONQUISTAS ================= -->
 
-<h2 align="center">🏆 Conquistas & Experiências</h2>
-
-<p align="center">
-  <i>Resultados, aprendizados e experiências construídos ao longo da minha trajetória.</i>
-</p>
 
 <br>
 
@@ -601,11 +480,6 @@ Participação em oficinas de programação, palestras sobre Inteligência Artif
 <!-- ================= LIDERANÇA ================= -->
 
 <h2 align="center">🎓 Liderança & Atuação Acadêmica</h2>
-
-<p align="center">
-<i>Protagonismo, colaboração e desenvolvimento de iniciativas tecnológicas.</i>
-</p>
-
 <table align="center">
 <tr>
 <td width="100%" bgcolor="#211B3B">
