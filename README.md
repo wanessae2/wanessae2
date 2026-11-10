@@ -129,36 +129,36 @@ Atuação como desenvolvedora no Laboratório de Inteligência Interativa (LINT)
 </tr>
 
 <tr>
-<td colspan="2" valign="top" bgcolor="#211B3B">
+<td width="50%" valign="top" bgcolor="#211B3B">
 
 <h3 align="center">🎮 Desenvolvimento de Jogos Digitais</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-9370DB?style=flat-square" />
+</p>
+
+<p align="justify">
 Experiência acadêmica no desenvolvimento de jogos digitais, explorando lógica de programação, criatividade e construção de soluções interativas.
 </p>
 
 </td>
-</tr>
-</table>
 
-<table align="center">
-  <tr>
-    <td bgcolor="#211B3B" width="500">
-      <h3 align="center">NEXORA AI SOLUTIONS</h3>
-      <p align="justify">
-        Fundadora da Nexora AI Solutions, iniciativa voltada ao desenvolvimento
-        de aplicações, sistemas e soluções estratégicas com programação avançada
-        e Inteligência Artificial. A empresa busca transformar desafios complexos
-        em soluções tecnológicas que promovam eficiência, inovação e melhores
-        resultados para empresas e governos.
-      </p>
-      <p align="center">
-        <a href="https://www.instagram.com/nexoraai__/">
-          <img src="https://img.shields.io/badge/Instagram-Nexora%20AI%20Solutions-9370DB?style=for-the-badge&logo=instagram&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
+<td width="50%" valign="top" bgcolor="#211B3B">
+
+<h3 align="center">🚀 Nexora AI Solutions</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EMPRESA-9370DB?style=flat-square" />
+</p>
+
+<p align="justify">
+Fundadora da Nexora AI Solutions, empresa voltada ao desenvolvimento de aplicações, sistemas e soluções estratégicas com programação avançada e Inteligência Artificial para empresas e governos.
+</p>
+
+<br>
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -352,9 +352,13 @@ Classificação entre as dez melhores equipes do Maranhão.
 <h1>🥉</h1>
 <h3>3º Lugar — Competição de Poesia</h3>
 
+<img src="https://img.shields.io/badge/UEB%20MARIA%20FERREIRA-9370DB?style=flat-square" />
+
 <p>
-Reconhecimento em competição de poesia.
+Reconhecimento pelo 3º lugar em competição de poesia realizada na UEB Maria Ferreira.
 </p>
+
+</td>
 
 </td>
 <td align="center" width="50%" bgcolor="#211B3B">
@@ -539,7 +543,7 @@ Desenvolvedora em projeto de tecnologia voltado à gestão pública.
 <br>
 
 
-## 🌐 Vamos construir conexões?
+<h2 align="center">🌐 Vamos construir conexões?</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evilla-wanessa-1772443ab">
@@ -551,10 +555,7 @@ Desenvolvedora em projeto de tecnologia voltado à gestão pública.
   <a href="https://github.com/wanessae2">
     <img src="https://img.shields.io/badge/GitHub-Seguir%20perfil-483D8B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/nexoraai__/">
+    <img src="https://img.shields.io/badge/Instagram-Nexora%20AI%20Solutions-9370DB?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-  💜 Aberta a conexões, colaborações e oportunidades em tecnologia!
-</p>
-
-*"A tecnologia é uma ferramenta para transformar ideias em possibilidades."*
