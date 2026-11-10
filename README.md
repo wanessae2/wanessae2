@@ -503,7 +503,7 @@ Fundadora e presidente da Liga Acadêmica de Robótica da UFMA. Atuação na coo
 <img src="https://img.shields.io/badge/DIRETORIA-PESQUISA%20%7C%20ENSINO%20%7C%20EXTENSÃO-9370DB?style=flat-square" />
 
 <p>
-Diretora de Pesquisa, Ensino e Extensão da Liga de Cibersegurança e Tecnologias Emergentes.
+Integrante da Liga de Cibersegurança e Tecnologias Emergentes.
 </p>
 
 <hr>
@@ -513,7 +513,7 @@ Diretora de Pesquisa, Ensino e Extensão da Liga de Cibersegurança e Tecnologia
 <img src="https://img.shields.io/badge/ATUAÇÃO-INTEGRANTE%20DA%20DIRETORIA-9370DB?style=flat-square" />
 
 <p>
-Integrante da diretoria, colaborando com as atividades e iniciativas da liga.
+Diretora de Pesquisa, Ensino e Extensão. Colaboradora com as atividades e iniciativas da liga.
 </p>
 
 <hr>
