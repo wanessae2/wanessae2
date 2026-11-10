@@ -664,14 +664,6 @@ Desenvolvedora em projeto de tecnologia voltado à gestão pública.
 
 <br>
 
-<div align="center">
-
-<h3>💜 Aprender, competir, colaborar e transformar.</h3>
-
-<sub>Robótica • Ciência • Liderança • Inovação • Impacto social</sub>
-
-</div>
-
 
 ## 🌐 Vamos construir conexões?
 
